@@ -1,0 +1,1 @@
+Modifiquem fitxer.txt a branch1 local.
