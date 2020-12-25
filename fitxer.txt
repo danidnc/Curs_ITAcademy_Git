@@ -1,0 +1,3 @@
+Modifiquem fitxer.txt a branch1 local.
+
+Canvi al fitxer.txt a la branca master
